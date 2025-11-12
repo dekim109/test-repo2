@@ -1,0 +1,5 @@
+{
+  "name": "Meme Magic Studio",
+  "description": "An AI-powered meme generator that uses Gemini to suggest witty captions for your images and provides powerful text-based image editing capabilities.",
+  "requestFramePermissions": []
+}
